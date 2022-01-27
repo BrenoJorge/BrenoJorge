@@ -3,6 +3,17 @@
 ### Oiii, prazer sou o Breno👋
 
 <hr/>
+
+## REDES SOCIAIS/CONTATO: 
+  
+  <a href="https://api.whatsapp.com/send?phone=5519996023463&text=Oi, tudo bem? Peguei seu número no git hub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/breno_jorgee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://support.discord.com/hc/en-us/profiles/1530723324802" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brenojorge79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+
+<hr/>
+
 <div align="center">
    <a href="https://github.com/BrenoJorge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoJorge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -75,15 +86,6 @@ Meu Nick: Brenoeo1 se caso quiser perder pdl no duo rank🥲
 <div> 
 <hr/>
 
-
-## REDES SOCIAIS/CONTATO: 
-  
-  <a href="https://api.whatsapp.com/send?phone=5519996023463&text=Oi, tudo bem? Peguei seu número no git hub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/breno_jorgee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://support.discord.com/hc/en-us/profiles/1530723324802" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brenojorge79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-
-<hr/>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
