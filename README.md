@@ -1,4 +1,4 @@
-### "Com grandes poderes vem grandes responsabilidades".
+### "A única morte verdadeira é nunca ter vívido".
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/color/96/000000/serial-tasks.png">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750520517777424454/936345819722940556/7d730568d1ad9030f35673e61026e364.jpg"/>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750520517777424454/936357230591221790/desconhecido.gif"/>
 
   
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
