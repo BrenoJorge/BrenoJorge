@@ -43,7 +43,7 @@
    #PlatinaAfundado, joguinho fascinante mas que te faz passar raiva ao extremo, uma mistura de amor e ódio que me conquistou.
 <hr/>
   
-###     Frases dos meus mains:
+###     Frases motivacionais dos meus mains:
 ### Kindred:
 
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750520517777424454/936357230591221790/desconhecido.gif"/>
@@ -66,7 +66,6 @@
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750520517777424454/936393236182863952/a0fd8af3bced9645f795e7f9c3aa1013.gif"/>
 "Basta um tropeço para separar a vida da morte.";<br/>"Abandone a raiva, ela não ajuda em nada."; "O perigo é real. A morte é uma ilusão."
 
-<br/>
 <br/>
 <hr/>
 <a href="https://www.leagueoflegends.com/pt-br/" target:"_blank">𝐀𝐛𝐚𝐢𝐱𝐞 𝐋𝐨𝐥𝐳𝐢𝐧𝐡𝐨 𝐚𝐢 𝐭𝐛𝐦 𝐩𝐨
